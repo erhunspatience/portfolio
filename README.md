@@ -1,3 +1,3 @@
-# OsazeePortfolio.github.io
+# PatiencePortfolio.github.io
 
 website design for my portfolio
